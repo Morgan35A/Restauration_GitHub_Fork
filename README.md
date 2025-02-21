@@ -40,6 +40,8 @@ Pour faire de cette nouvelle branche votre branche principale, vous devez faire 
 Créer une nouvelle branche : 
 ![Screenshot newbranche](newbranche.jpg)
 
+Maintenant il faut se rendre sur la fenetre pull request :
+![Screenshot newbranche](image3.png)
 
 
 **Procedure à suivre :**  
