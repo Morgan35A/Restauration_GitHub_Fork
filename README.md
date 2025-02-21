@@ -35,6 +35,9 @@ Pour faire de cette nouvelle branche votre branche principale, vous devez faire 
 
 ![Screenshot Pull1](Pull1.jpg)  
 
+Créer une nouvelle branche : 
+![Screenshot newbranche](newbranche.jpg)
+
 
 
 **Procedure à suivre :**  
