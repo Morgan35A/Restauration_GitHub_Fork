@@ -43,7 +43,17 @@ Créer une nouvelle branche :
 Maintenant il faut se rendre sur la fenetre pull request :
 ![Screenshot newbranche](image3.png)
 
+Maintenant on arrive créer une nouvelle pull request :
+![Screenshot newbranche](image4.png)
 
+Ensuite on choisit la branche que l'on veut pousser sur le main:
+![Screenshot newbranche](image2.png)
+
+Maintenant on merge pull request:
+![Screenshot newbranche](image5.png)
+
+la restauration est bien effectuer : 
+![Screenshot newbranche](restauration.png)
 **Procedure à suivre :**  
 1° - Créez vous un compte sur GitHub : https://github.com/  
 Si besoin, une vidéo pour vous aider à créer votre propre compte GitHUB : [Créer un compte GitHUB](https://docs.github.com/fr/get-started/onboarding/getting-started-with-your-github-account)  
